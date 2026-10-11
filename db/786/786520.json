@@ -1,0 +1,66 @@
+{
+  "appid": 786520,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 1,
+      "pattern": "**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/**",
+      "files_seen": 3,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/Bangumi/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/GGO Widget/Widgets/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/HP-Bar/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/Image Widget/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/Mail Box/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Configs/Quick Launch/**",
+      "files_seen": 1,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 11,
+    "cloud_bytes": 16590,
+    "local_files_present": false
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

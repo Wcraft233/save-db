@@ -1,0 +1,66 @@
+{
+  "appid": 3768760,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 0,
+      "pattern": "KntProfileSaveFile/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "KntProfileSaveFile-BCK-0/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "KntProfileSaveFile-BCK-1/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "KntSlotSaveFile-0/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "KntSlotSaveFile-20/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "KntSlotSaveFile-21/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "LocalProfile/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "SystemData/**",
+      "files_seen": 2,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 16,
+    "cloud_bytes": 58306,
+    "local_files_present": true
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

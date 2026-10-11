@@ -1,0 +1,30 @@
+{
+  "appid": 780310,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 2,
+      "pattern": "The Riftbreaker/user_config/**",
+      "files_seen": 5,
+      "verdict": "save"
+    },
+    {
+      "root": 2,
+      "pattern": "The Riftbreaker/user_profile/**",
+      "files_seen": 1,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 2,
+    "cloud_files": 6,
+    "cloud_bytes": 0,
+    "local_files_present": false
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

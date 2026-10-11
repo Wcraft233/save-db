@@ -1,0 +1,24 @@
+{
+  "appid": 3357650,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 0,
+      "pattern": "win64_save/**",
+      "files_seen": 3,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 3,
+    "cloud_bytes": 6568820,
+    "local_files_present": true
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

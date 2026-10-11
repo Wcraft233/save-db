@@ -1,0 +1,30 @@
+{
+  "appid": 2918500,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 1,
+      "pattern": "CozyIsland_Data/SaveFiles/.Photos/**",
+      "files_seen": 3,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "CozyIsland_Data/SaveFiles/大岛/**",
+      "files_seen": 29,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 2,
+    "cloud_files": 32,
+    "cloud_bytes": 0,
+    "local_files_present": false
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

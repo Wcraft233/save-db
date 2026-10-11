@@ -1,0 +1,66 @@
+{
+  "appid": 1377380,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 1,
+      "pattern": "Saved/Avatars/Slot_1/**",
+      "files_seen": 3,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Saved/SaveGames/Autosave/**",
+      "files_seen": 4,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Saved/SaveGames/Quicksave/**",
+      "files_seen": 4,
+      "verdict": "save"
+    },
+    {
+      "root": 1,
+      "pattern": "Saved/SaveGames/Settings/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 3,
+      "pattern": "LF/Saved/Avatars/Slot_1/**",
+      "files_seen": 3,
+      "verdict": "save"
+    },
+    {
+      "root": 3,
+      "pattern": "LF/Saved/SaveGames/Autosave/**",
+      "files_seen": 4,
+      "verdict": "save"
+    },
+    {
+      "root": 3,
+      "pattern": "LF/Saved/SaveGames/Quicksave/**",
+      "files_seen": 4,
+      "verdict": "save"
+    },
+    {
+      "root": 3,
+      "pattern": "LF/Saved/SaveGames/Settings/**",
+      "files_seen": 1,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 24,
+    "cloud_bytes": 4252456,
+    "local_files_present": false
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

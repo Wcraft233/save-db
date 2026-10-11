@@ -1,0 +1,216 @@
+{
+  "appid": 1086940,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 0,
+      "pattern": "_PROFILE_Public/**",
+      "files_seen": 6,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/塔夫-3261268330__AutoSave_0/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-103112614056__AutoSave_12/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-1311261304__森林 - 1时50分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-163112613054__AutoSave_10/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-163112616053__AutoSave_16/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-163112616059__营地 - 4时58分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-18311261603__AutoSave_17/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-191712615015__AutoSave_7/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-261712614059__AutoSave_0/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-27171261407__地狱鹦鹉螺 - 0时11分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-303112615024__低语深地 - 4时17分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-31712615022__疮痍的海滩 - 0时47分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-3171261504__AutoSave_5/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-331712614044__AutoSave_1/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-333112615018__AutoSave_14/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-363112615048__AutoSave_15/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-383112615023__低语深地 - 4时25分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-393112614044__染疫村落 - 3时28分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-411712615038__礼拜堂入口 - 1时25分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-42171261404__AutoSave_2/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-4311261302__AutoSave_9/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-451712614047__AutoSave_3/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-453112616039__晋升之路 - 5时26分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-461712614045__AutoSave_4/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-483112613039__森林 - 2时37分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-493112613036__AutoSave_11/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-493112614036__AutoSave_13/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-503112612031__AutoSave_8/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-53112615027__荒野 - 3时52分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-563112615048__低语深地 - 4时39分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-583112615044__低语深地 - 4时40分/**",
+      "files_seen": 1,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_Public/Savegames/Story/重生之我在地底当小偷-8171261504__AutoSave_6/**",
+      "files_seen": 1,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 38,
+    "cloud_bytes": 452237726,
+    "local_files_present": true
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}

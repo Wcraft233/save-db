@@ -1,0 +1,354 @@
+{
+  "appid": 435150,
+  "name": null,
+  "installed_at_scan": false,
+  "save_paths": [
+    {
+      "root": 0,
+      "pattern": "_PROFILE_一起起飞/**",
+      "files_seen": 4,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_0/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_1/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_10/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_11/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_12/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_13/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_14/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_2/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_3/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_4/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_5/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_6/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_7/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_8/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/AutoSave_9/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/古旧的遗迹 - 5h58m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/古老通道 - 1h23m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/囚牢 - 1h21m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/囚牢 - 1h27m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/地下隧道 - 5h14m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/复仇女神号 - 13h20m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/导师之家 - 一楼 - 14h26m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/布拉克斯·雷克斯之塔 - 8h43m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/布拉克斯·雷克斯之塔 - 9h11m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡沙滩 - 3h54m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡港口 - 10h48m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡港口 - 10h51m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡贫民区 - 0h40m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡贫民区 - 11h01m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/欢乐堡贫民区 - 2h26m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/死神海岸 - 13h49m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/浮木镇 - 14h41m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/浮木镇 - 14h58m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/浮木镇 - 15h06m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/浮木镇 - 15h55m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/狂人的飞地 - 10h08m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/耐尔斯的解剖间 - 1h28m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/营地厨房 - 2h55m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/营地厨房 - 3h30m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 10h37m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h04m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h05m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h09m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h41m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h42m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 11h54m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 2h22m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 4h05m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 4h16m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 5h57m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 8h14m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 8h19m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 8h38m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/虚空沼泽 - 9h28m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    },
+    {
+      "root": 0,
+      "pattern": "_SAVE_一起起飞/Savegames/Story/达莉丝的特等舱 - 12h54m/**",
+      "files_seen": 2,
+      "verdict": "save"
+    }
+  ],
+  "cloud_behavior": {
+    "observed_syncstate": 1,
+    "cloud_files": 114,
+    "cloud_bytes": 361457686,
+    "local_files_present": true
+  },
+  "stats": {
+    "seen": 1,
+    "deleted": 0
+  },
+  "source": "steamsweep-m1-coldstart"
+}
