@@ -1,0 +1,39 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write # 滚动发布 savedb.json 快照需要
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 校验分片与灰名单，合并 savedb.json
+        run: python tools/validate_db.py savedb.json
+
+      - name: 上传合并结果
+        uses: actions/upload-artifact@v4
+        with:
+          name: savedb-json
+          path: savedb.json
+          retention-days: 30
+
+      - name: 发布滚动快照（客户端增量更新用）
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: savedb
+          name: SaveDB 快照
+          body: 由 CI 自动校验并合并 `db/` 分片生成的 savedb.json，SteamSweep 客户端按 ETag 增量更新。
+          files: savedb.json

@@ -37,4 +37,4 @@ graylist.json                    # 启发式扫描误报灰名单
 ## 贡献
 
 - 应用内「贡献路径 / 修正判定」按钮 → 预填 GitHub Issue 模板（规划中）
-- 直接 PR：按上述格式新增/修改 `db/**/*.json`，CI 校验格式（规划中）
+- 直接 PR：按上述格式新增/修改 `db/**/*.json`，CI 自动校验格式（结构 + 隐私红线），推送到 main 后自动合并出 savedb.json 并以滚动 Release 资产发布
