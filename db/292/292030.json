@@ -1,30 +1,24 @@
 {
   "appid": 292030,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 2,
-      "pattern": "The Witcher 3/**",
       "files_seen": 1,
+      "pattern": "The Witcher 3/**",
+      "root": 2,
       "verdict": "save"
     },
     {
-      "root": 2,
-      "pattern": "The Witcher 3/gamesaves/**",
       "files_seen": 2146,
+      "pattern": "The Witcher 3/gamesaves/**",
+      "root": 2,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 1,
-    "cloud_files": 2147,
-    "cloud_bytes": 265276562,
-    "local_files_present": false
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

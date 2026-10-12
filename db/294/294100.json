@@ -1,0 +1,18 @@
+{
+  "appid": 294100,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "ludeon studios/rimworld by ludeon studios/**",
+      "root": 12,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

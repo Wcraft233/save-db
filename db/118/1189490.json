@@ -1,0 +1,24 @@
+{
+  "appid": 1189490,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "yusuiinc/觅长生/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "yusuiinc/觅长生test/**",
+      "root": 12,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

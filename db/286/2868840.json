@@ -1,48 +1,42 @@
 {
   "appid": 2868840,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 0,
-      "pattern": "**",
       "files_seen": 1,
+      "pattern": "**",
+      "root": 0,
       "verdict": "save"
     },
     {
-      "root": 0,
-      "pattern": "modded/profile1/saves/**",
       "files_seen": 4,
+      "pattern": "modded/profile1/saves/**",
+      "root": 0,
       "verdict": "save"
     },
     {
-      "root": 0,
-      "pattern": "modded/profile1/saves/history/**",
       "files_seen": 56,
+      "pattern": "modded/profile1/saves/history/**",
+      "root": 0,
       "verdict": "save"
     },
     {
-      "root": 0,
-      "pattern": "profile1/saves/**",
       "files_seen": 2,
+      "pattern": "profile1/saves/**",
+      "root": 0,
       "verdict": "save"
     },
     {
-      "root": 0,
-      "pattern": "profile1/saves/history/**",
       "files_seen": 32,
+      "pattern": "profile1/saves/history/**",
+      "root": 0,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 1,
-    "cloud_files": 95,
-    "cloud_bytes": 8399024,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

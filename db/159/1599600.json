@@ -1,42 +1,36 @@
 {
   "appid": 1599600,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "It's Happening/PlateUp/ModData/KitchenLib/Preferences/com.starfluxgames.pets/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "It's Happening/PlateUp/ModData/KitchenLib/Preferences/kitchenlib/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 11,
       "pattern": "It's Happening/PlateUp/Profile/**",
-      "files_seen": 11,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "It's Happening/PlateUp/Progress/**",
       "files_seen": 11,
+      "pattern": "It's Happening/PlateUp/Progress/**",
+      "root": 12,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 24,
-    "cloud_bytes": 0,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

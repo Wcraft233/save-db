@@ -1,0 +1,42 @@
+{
+  "appid": 1190970,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "frozen district/house flipper 2/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "frozen district/house flipper 2/override/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "frozen district/house flipper 2/pictures/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "frozen district/house flipper 2/profiles/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "frozen district/house flipper 2/timelines/**",
+      "root": 12,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

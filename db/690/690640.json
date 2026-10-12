@@ -1,24 +1,18 @@
 {
   "appid": 690640,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 0,
-      "pattern": "**",
       "files_seen": 6,
+      "pattern": "**",
+      "root": 0,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 1,
-    "cloud_files": 6,
-    "cloud_bytes": 21530,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

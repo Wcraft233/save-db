@@ -1,0 +1,18 @@
+{
+  "appid": 1260810,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "epicomic/touhou blooming chaos2/cirnosmemory/**",
+      "root": 12,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 3606890,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "upload labs/**",
+      "root": 6,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "upload labs/schematics/**",
+      "root": 6,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

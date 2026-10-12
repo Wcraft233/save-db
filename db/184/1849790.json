@@ -1,0 +1,24 @@
+{
+  "appid": 1849790,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "spacegarage/saved/config/windowsnoeditor/**",
+      "root": 3,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "spacegarage/saved/savegames/**",
+      "root": 3,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

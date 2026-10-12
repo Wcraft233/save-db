@@ -1,108 +1,102 @@
 {
   "appid": 1169040,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/characters/**",
       "files_seen": 2,
+      "pattern": "Necesse/saves/characters/**",
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/maps/4734458348718242645/cave/**",
       "files_seen": 32,
+      "pattern": "Necesse/saves/maps/4734458348718242645/cave/**",
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/cavetrial1711x175/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/cavetrial1721x357/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/maps/4734458348718242645/deepcave/**",
       "files_seen": 18,
+      "pattern": "Necesse/saves/maps/4734458348718242645/deepcave/**",
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/maps/4734458348718242645/deepcave-temple1767x-230/**",
       "files_seen": 3,
+      "pattern": "Necesse/saves/maps/4734458348718242645/deepcave-temple1767x-230/**",
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/deepcave-temple1767x-230-arena/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/incursion-1380626984/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/maps/4734458348718242645/surface/**",
       "files_seen": 46,
+      "pattern": "Necesse/saves/maps/4734458348718242645/surface/**",
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/surface-dungeon1828x180/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/surface-dungeon2037x-357/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
+      "files_seen": 1,
       "pattern": "Necesse/saves/maps/4734458348718242645/surface-dungeon2037x-357-arena/**",
-      "files_seen": 1,
+      "root": 4,
       "verdict": "save"
     },
     {
-      "root": 4,
-      "pattern": "Necesse/saves/worlds/**",
       "files_seen": 6,
+      "pattern": "Necesse/saves/worlds/**",
+      "root": 4,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 116,
-    "cloud_bytes": 0,
-    "local_files_present": false
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

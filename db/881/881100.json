@@ -1,0 +1,90 @@
+{
+  "appid": 881100,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/persistent/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/persistent/bones_new/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/persistent/flags/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/persistent/orbs_new/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/stats/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save00/world/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save01/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save02/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save03/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save04/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save05/**",
+      "root": 12,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "nolla_games_noita/save06/**",
+      "root": 12,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

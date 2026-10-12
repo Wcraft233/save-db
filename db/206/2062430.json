@@ -1,24 +1,18 @@
 {
   "appid": 2062430,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 12,
-      "pattern": "Kenny Sun/BALL x PIT/**",
       "files_seen": 2,
+      "pattern": "Kenny Sun/BALL x PIT/**",
+      "root": 12,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 2,
-    "cloud_bytes": 0,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

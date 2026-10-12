@@ -1,0 +1,24 @@
+{
+  "appid": 427100,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "fernbus/saved/profiles/**",
+      "root": 3,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "fernbus/settings/**",
+      "root": 3,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

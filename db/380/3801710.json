@@ -1,72 +1,66 @@
 {
   "appid": 3801710,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/app/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/map_local/16/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 4,
       "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/map_local/3/**",
-      "files_seen": 4,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
+      "files_seen": 1,
       "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/player/**",
-      "files_seen": 1,
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/player_world_data/**",
       "files_seen": 3,
+      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/player_world_data/**",
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/other/**",
       "files_seen": 4,
+      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/other/**",
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/zones/16/**",
       "files_seen": 1,
+      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/zones/16/**",
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/zones/3/**",
       "files_seen": 38,
+      "pattern": "RockNDash/Wonderia/Saves/Steam/76561198141676500/world/5139588977836980529/world_data/zones/3/**",
+      "root": 12,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 54,
-    "cloud_bytes": 0,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

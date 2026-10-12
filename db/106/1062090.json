@@ -1,0 +1,36 @@
+{
+  "appid": 1062090,
+  "installed_at_scan": false,
+  "name": null,
+  "save_paths": [
+    {
+      "files_seen": 1,
+      "pattern": "timberborn/experimentalsaves/**",
+      "root": 2,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "timberborn/maps/**",
+      "root": 2,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "timberborn/playerdata/**",
+      "root": 2,
+      "verdict": "save"
+    },
+    {
+      "files_seen": 1,
+      "pattern": "timberborn/saves/**",
+      "root": 2,
+      "verdict": "save"
+    }
+  ],
+  "source": "steamsweep-coldstart",
+  "stats": {
+    "deleted": 0,
+    "seen": 1
+  }
+}

@@ -1,30 +1,24 @@
 {
   "appid": 2056210,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 12,
-      "pattern": "Shuxi/LONESTAR/Save/0/Save/**",
       "files_seen": 7,
+      "pattern": "Shuxi/LONESTAR/Save/0/Save/**",
+      "root": 12,
       "verdict": "save"
     },
     {
-      "root": 12,
-      "pattern": "Shuxi/LONESTAR/Save/Data/**",
       "files_seen": 3,
+      "pattern": "Shuxi/LONESTAR/Save/Data/**",
+      "root": 12,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 10,
-    "cloud_bytes": 0,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

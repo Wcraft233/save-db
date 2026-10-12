@@ -1,30 +1,24 @@
 {
   "appid": 4930030,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 3,
-      "pattern": "ZodiacCrystal/Saved/SaveGames/**",
       "files_seen": 2,
+      "pattern": "ZodiacCrystal/Saved/SaveGames/**",
+      "root": 3,
       "verdict": "save"
     },
     {
-      "root": 3,
-      "pattern": "ZodiacCrystal/Saved/SaveGames/76561198141676500/**",
       "files_seen": 2,
+      "pattern": "ZodiacCrystal/Saved/SaveGames/76561198141676500/**",
+      "root": 3,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 4,
-    "cloud_bytes": 0,
-    "local_files_present": true
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }

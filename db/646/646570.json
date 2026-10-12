@@ -1,30 +1,24 @@
 {
   "appid": 646570,
-  "name": null,
   "installed_at_scan": false,
+  "name": null,
   "save_paths": [
     {
-      "root": 1,
-      "pattern": "preferences/**",
       "files_seen": 153,
+      "pattern": "preferences/**",
+      "root": 1,
       "verdict": "save"
     },
     {
-      "root": 1,
-      "pattern": "saves/**",
       "files_seen": 7,
+      "pattern": "saves/**",
+      "root": 1,
       "verdict": "save"
     }
   ],
-  "cloud_behavior": {
-    "observed_syncstate": 2,
-    "cloud_files": 160,
-    "cloud_bytes": 0,
-    "local_files_present": false
-  },
+  "source": "steamsweep-coldstart",
   "stats": {
-    "seen": 1,
-    "deleted": 0
-  },
-  "source": "steamsweep-m1-coldstart"
+    "deleted": 0,
+    "seen": 1
+  }
 }
